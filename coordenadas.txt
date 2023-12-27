@@ -1,0 +1,10 @@
+1100,1049,dir_abrir_explorer_single
+337,603,dir_home_single
+1279,424,dir_workspace_double
+570,764,dir_project_double
+569,433,dir_assets_double
+980,568,mouse_diretorio_right
+1150,458,mouse_new_single
+1335,458,mouse_folder_single
+980,568,mouse_diretorio_single
+380,1049,mouse_barra_tarefas_single
