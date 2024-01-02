@@ -1,0 +1,15 @@
+2024-01-01 20:16:17,698 - root - INFO - 1. INICIO:
+2024-01-01 20:16:21,688 - __main__ - INFO - Usuário solicitado
+2024-01-01 20:16:24,269 - __main__ - INFO - Senha solicitada
+2024-01-01 20:16:25,237 - __main__ - INFO - Usuário confirmou para salvar
+2024-01-01 20:16:25,239 - root - INFO - Novo arquivo criado e dados salvos
+2024-01-01 20:16:37,828 - root - INFO - 1. INICIO:
+2024-01-01 20:16:42,407 - __main__ - INFO - Usuário solicitado
+2024-01-01 20:16:45,101 - __main__ - INFO - Senha solicitada
+2024-01-01 20:16:46,174 - __main__ - INFO - Usuário confirmou para salvar
+2024-01-01 20:16:46,175 - root - INFO - Dados adicionados ao arquivo existente
+2024-01-01 20:20:49,849 - root - INFO - 1. INICIO:
+2024-01-01 20:20:52,582 - __main__ - INFO - Usuário solicitado
+2024-01-01 20:20:55,131 - __main__ - INFO - Senha solicitada
+2024-01-01 20:20:56,483 - __main__ - INFO - Usuário confirmou para salvar
+2024-01-01 20:20:56,485 - root - INFO - Dados adicionados ao arquivo existente
