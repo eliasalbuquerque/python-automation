@@ -13,3 +13,65 @@
 2024-01-01 20:20:55,131 - __main__ - INFO - Senha solicitada
 2024-01-01 20:20:56,483 - __main__ - INFO - Usuário confirmou para salvar
 2024-01-01 20:20:56,485 - root - INFO - Dados adicionados ao arquivo existente
+2024-01-02 12:10:50,064 - root - INFO - INICIO: screenshot calculadora.
+2024-01-02 12:10:50,064 - root - INFO - Coordenadas do screenshot inseridas.
+2024-01-02 12:10:50,111 - root - INFO - Screenshot salvo.
+2024-01-02 12:11:21,936 - root - INFO - INICIO: screenshot notepad.
+2024-01-02 12:11:27,014 - root - ERROR - Erro ao tirar screenshot do notepad: name 'keyboard' is not defined
+2024-01-02 12:12:53,415 - root - INFO - INICIO: screenshot notepad.
+2024-01-02 12:12:58,709 - root - INFO - Notepad aberto.
+2024-01-02 12:12:58,765 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-01-02 12:12:58,765 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-01-02 12:12:58,765 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-01-02 12:12:58,765 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-01-02 12:12:58,765 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-01-02 12:12:58,780 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-01-02 12:12:58,780 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-01-02 12:12:58,780 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-01-02 12:12:58,780 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-01-02 12:12:58,780 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-01-02 12:12:58,780 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-01-02 12:12:58,780 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-01-02 12:12:58,780 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-01-02 12:12:58,796 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-01-02 12:12:58,811 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-01-02 12:12:58,811 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-01-02 12:12:58,811 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-01-02 12:12:58,811 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-01-02 12:12:58,811 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-01-02 12:12:58,827 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-01-02 12:12:58,845 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-01-02 12:12:58,859 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-01-02 12:12:58,859 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-01-02 12:12:58,859 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-01-02 12:12:58,859 - root - ERROR - Erro ao tirar screenshot do notepad: unknown file extension: 
+2024-01-02 12:14:30,450 - root - INFO - INICIO: screenshot notepad.
+2024-01-02 12:14:35,744 - root - INFO - Notepad aberto.
+2024-01-02 12:14:35,809 - root - ERROR - Erro ao tirar screenshot do notepad: [Errno 2] No such file or directory: '.assets/screenshot2.jpg'
+2024-01-02 12:16:15,471 - root - INFO - INICIO: screenshot notepad.
+2024-01-02 12:16:20,747 - root - INFO - Notepad aberto.
+2024-01-02 12:16:20,807 - root - INFO - Screenshot salvo.
