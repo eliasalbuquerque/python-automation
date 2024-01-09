@@ -50,7 +50,7 @@ This is a Python script that automates the sending of mass messages on WhatsApp 
 
 ### Code
 
-https://github.com/eliasalbuquerque/python-automation/blob/develop/bot_whatsapp.py
+https://github.com/eliasalbuquerque/python-automation/blob/master/bot_whatsapp.py
 
 ### Final Result
 
@@ -78,7 +78,7 @@ Let's create a bot that determines which page it wants to follow, checks if the 
 
 ### Code
 
-https://github.com/eliasalbuquerque/python-automation/blob/develop/rpa_instagram.py
+https://github.com/eliasalbuquerque/python-automation/blob/master/rpa_instagram.py
 
 
 The program has methods to:
@@ -96,7 +96,6 @@ The program has methods to:
 
 <!-- insert screenshot or .gif -->
 <!-- ![Alt text](automacao-instagram.gif) -->
-![automacao-instagram-rev1](https://github.com/eliasalbuquerque/python-automation/assets/78819295/c20133e3-f490-4848-9eb2-527e8da1aa48)
 
 
 ---
@@ -115,7 +114,7 @@ The program has methods to:
 
 ### Code
 
-https://github.com/eliasalbuquerque/python-automation/blob/develop/pyautogui_sites.py
+https://github.com/eliasalbuquerque/python-automation/blob/master/pyautogui_sites.py
 
 
 Added to the project:
@@ -131,7 +130,7 @@ Added to the project:
 
 <!-- insert screenshot or .gif -->
 <!-- ![Alt text](automacao-completa.gif) -->
-![automacao-completa](https://github.com/eliasalbuquerque/python-automation/assets/78819295/718e3a5d-15bb-45e6-8c15-c42cff1c740f)
+![automacao-completa](https://github.com/eliasalbuquerque/python-automation/assets/78819295/55ced1e9-89a7-49d3-a566-04d41a4673da)
 
 
 **Log:**
@@ -179,4 +178,4 @@ Added to the project:
 
 
 ---
-[GitHub: eliasalbuquerque/python-automation](https://github.com/eliasalbuquerque/python-automation/tree/develop)
+[GitHub: eliasalbuquerque/python-automation](https://github.com/eliasalbuquerque/python-automation/tree/master)
