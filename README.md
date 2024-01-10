@@ -96,6 +96,7 @@ The program has methods to:
 
 <!-- insert screenshot or .gif -->
 <!-- ![Alt text](automacao-instagram.gif) -->
+![automacao-instagram-rev1](https://github.com/eliasalbuquerque/python-automation/assets/78819295/ba6b8753-211a-4e64-8e76-1be05f9a73d1)
 
 
 ---
